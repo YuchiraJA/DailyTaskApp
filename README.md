@@ -1,3 +1,20 @@
+# Daily Task App 
+
+## Project Name - Daily Task Web Application
+
+## Brief Description of Project - 
+###### This is a daily task app. The main purpose of this app is to manage our day-to-day works.
+## Technologies used - 
+####                     Frontend - HTML/CSS/Bootstrap 
+####                     Backend  - Laravel
+####                     Database - SQL
+
+
+ <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" width="400"></a></p>
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
